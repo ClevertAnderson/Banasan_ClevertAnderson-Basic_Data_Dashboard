@@ -1,0 +1,28 @@
+body{
+background-color: gray;
+font-size: 15px;
+font-weight: 200;
+}
+header{
+background-color: black;
+color: white;
+text-align: center;
+}
+main{
+padding: 10px;
+text-align: center;
+}
+.metric{
+background-color: white;
+border: 1px solid;
+margin: 10px;
+padding: 5px;
+}
+button{
+background-color: white;
+padding: 10px;
+border-radius: 20px;
+}
+button:hover{
+background-color: red;
+}
